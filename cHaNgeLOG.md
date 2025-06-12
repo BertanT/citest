@@ -7,7 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.7] - 2025-06-12
+
+## [Unreleased]
+
 ## [0.0.6] - 2025-06-12
+
+## [Unreleased]
+
+## [0.0.7] - 2025-06-12
 
 ## [Unreleased]
 
@@ -17,7 +25,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.7] - 2025-06-12
+
+## [Unreleased]
+
 ## [0.0.6] - 2025-06-12
+
+## [Unreleased]
+
+## [0.0.7] - 2025-06-12
 
 ## [Unreleased]
 
@@ -30,7 +46,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.7] - 2025-06-12
+
+## [Unreleased]
+
 ## [0.0.6] - 2025-06-12
+
+## [Unreleased]
+
+## [0.0.7] - 2025-06-12
 
 ## [Unreleased]
 
@@ -39,7 +63,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.7] - 2025-06-12
+
+## [Unreleased]
+
 ## [0.0.6] - 2025-06-12
+
+## [Unreleased]
+
+## [0.0.7] - 2025-06-12
 
 ## [Unreleased]
 
@@ -50,7 +82,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * This changelog to keep track of the evolution of WatchDuck! Updated the README accordingly.
 * Set up CI to automatically create releases with bundled binaries and automatically pull release notes from this changelog.
 
-[unreleased]: https://github.com/BertanT/citest/compare/0.0.6...HEAD
+[unreleased]: https://github.com/BertanT/citest/compare/0.0.7...HEAD
 [0.1.0]: https://github.com/BertanT/WatchDuck/releases/tag/0.1.0
 [0.1.1]: https://github.com/BertanT/WatchDuck/compare/0.1.0...0.1.1
 
@@ -65,3 +97,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [0.0.5]: https://github.com/BertanT/citest/compare/0.0.4...0.0.5
 
 [0.0.6]: https://github.com/BertanT/citest/compare/0.0.5...0.0.6
+
+[0.0.7]: https://github.com/BertanT/citest/compare/0.0.5...0.0.7
