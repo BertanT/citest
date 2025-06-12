@@ -31,7 +31,7 @@ on:
     merge_group:
 jobs:
   call-build:
-    uses: BertanT/SwiftPM-Cross-Comp-CI/.github/workflows/build.yml@switch-to-swiftly
+    uses: BertanT/SwiftPM-Cross-Comp-CI/.github/workflows/build.yml@main
     with:
       swift_toolchain_version: ${{ vars.SWIFT_TOOLCHAIN_VERSION}}
       linux_sdk_url: ${{ vars.LINUX_SDK_URL }}
